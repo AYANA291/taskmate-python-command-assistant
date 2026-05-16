@@ -26,8 +26,4 @@ This project is built to understand Python basics, conditional logic, and automa
 
 ---
 
-## 📦 Installation
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/taskmate.git
